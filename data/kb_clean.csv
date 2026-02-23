@@ -1,0 +1,171 @@
+﻿id,program,intent,lang,question,answer,tags,active
+1,journee_crique,general,fr,C’est quoi cette activité ?,"Coin privé face à la mer avec parasol, margoum, table et poufs. Déjeuner et boissons inclus.",journee,1
+2,journee_crique,general,fr,Pouvez-vous décrire l’activité ?,"Coin privé face à la mer avec parasol, margoum, table et poufs. Déjeuner et boissons inclus.",journee,1
+3,journee_crique,general,fr,Donnez-moi des détails sur le programme.,"Coin privé face à la mer avec parasol, margoum, table et poufs. Déjeuner et boissons inclus.",journee,1
+4,journee_crique,general,fr,Je veux des infos sur cette sortie.,"Coin privé face à la mer avec parasol, margoum, table et poufs. Déjeuner et boissons inclus.",journee,1
+5,journee_crique,general,fr,C’est quoi exactement ?,"Coin privé face à la mer avec parasol, margoum, table et poufs. Déjeuner et boissons inclus.",journee,1
+6,journee_crique,general,ar,شنيا النشاط هذا؟,بلاصة خاصة قدام البحر فيها باراسول ومرقوم وطاولة وبوفات. الغداء والمشروبات داخلين.,journee,1
+7,journee_crique,general,ar,اعطيني تفاصيل علي البرنامج.,بلاصة خاصة قدام البحر فيها باراسول ومرقوم وطاولة وبوفات. الغداء والمشروبات داخلين.,journee,1
+8,journee_crique,general,ar,نحب معلومات علي الرحلة.,بلاصة خاصة قدام البحر فيها باراسول ومرقوم وطاولة وبوفات. الغداء والمشروبات داخلين.,journee,1
+9,journee_crique,general,ar,شنوة البرنامج بالضبط؟,بلاصة خاصة قدام البحر فيها باراسول ومرقوم وطاولة وبوفات. الغداء والمشروبات داخلين.,journee,1
+10,journee_crique,general,ar,فسرلي النشاط.,بلاصة خاصة قدام البحر فيها باراسول ومرقوم وطاولة وبوفات. الغداء والمشروبات داخلين.,journee,1
+11,journee_crique,pricing,fr,Quel est le prix ?,Le tarif est de 100 DT par adulte. Enfant 5-12 ans : 50 DT. Moins de 4 ans gratuit.,prix,1
+12,journee_crique,pricing,fr,Combien ça coûte ?,Le tarif est de 100 DT par adulte. Enfant 5-12 ans : 50 DT. Moins de 4 ans gratuit.,prix,1
+13,journee_crique,pricing,fr,C’est combien le tarif ?,Le tarif est de 100 DT par adulte. Enfant 5-12 ans : 50 DT. Moins de 4 ans gratuit.,prix,1
+14,journee_crique,pricing,fr,Le prix est par personne ?,Le tarif est de 100 DT par adulte. Enfant 5-12 ans : 50 DT. Moins de 4 ans gratuit.,prix,1
+15,journee_crique,pricing,fr,Quel est le tarif adulte ?,Le tarif est de 100 DT par adulte. Enfant 5-12 ans : 50 DT. Moins de 4 ans gratuit.,prix,1
+16,journee_crique,pricing,fr,Quel est le tarif enfant ?,Le tarif est de 100 DT par adulte. Enfant 5-12 ans : 50 DT. Moins de 4 ans gratuit.,prix,1
+17,journee_crique,pricing,fr,Moins de 4 ans c’est gratuit ?,Le tarif est de 100 DT par adulte. Enfant 5-12 ans : 50 DT. Moins de 4 ans gratuit.,prix,1
+18,journee_crique,pricing,fr,Le prix inclut quoi ?,Le tarif est de 100 DT par adulte. Enfant 5-12 ans : 50 DT. Moins de 4 ans gratuit.,prix,1
+19,journee_crique,pricing,fr,Y a-t-il une promotion ?,Le tarif est de 100 DT par adulte. Enfant 5-12 ans : 50 DT. Moins de 4 ans gratuit.,prix,1
+20,journee_crique,pricing,fr,Donnez-moi le prix exact.,Le tarif est de 100 DT par adulte. Enfant 5-12 ans : 50 DT. Moins de 4 ans gratuit.,prix,1
+21,journee_crique,pricing,ar,قداش سومها؟,السعر 100 دينار للكبير و50 دينار للاطفال من 5 حتي 12 سنين واقل من 4 سنين مجاني.,prix,1
+22,journee_crique,pricing,ar,السعر قداش؟,السعر 100 دينار للكبير و50 دينار للاطفال من 5 حتي 12 سنين واقل من 4 سنين مجاني.,prix,1
+23,journee_crique,pricing,ar,بكداش؟,السعر 100 دينار للكبير و50 دينار للاطفال من 5 حتي 12 سنين واقل من 4 سنين مجاني.,prix,1
+24,journee_crique,pricing,ar,السوم للشخص؟,السعر 100 دينار للكبير و50 دينار للاطفال من 5 حتي 12 سنين واقل من 4 سنين مجاني.,prix,1
+25,journee_crique,pricing,ar,قداش للكبار؟,السعر 100 دينار للكبير و50 دينار للاطفال من 5 حتي 12 سنين واقل من 4 سنين مجاني.,prix,1
+26,journee_crique,pricing,ar,قداش للصغار؟,السعر 100 دينار للكبير و50 دينار للاطفال من 5 حتي 12 سنين واقل من 4 سنين مجاني.,prix,1
+27,journee_crique,pricing,ar,اقل من 4 سنين مجاني؟,السعر 100 دينار للكبير و50 دينار للاطفال من 5 حتي 12 سنين واقل من 4 سنين مجاني.,prix,1
+28,journee_crique,pricing,ar,السعر يشمل شنو؟,السعر 100 دينار للكبير و50 دينار للاطفال من 5 حتي 12 سنين واقل من 4 سنين مجاني.,prix,1
+29,journee_crique,pricing,ar,فما تخفيض؟,السعر 100 دينار للكبير و50 دينار للاطفال من 5 حتي 12 سنين واقل من 4 سنين مجاني.,prix,1
+30,journee_crique,pricing,ar,اعطيني السوم الصحيح.,السعر 100 دينار للكبير و50 دينار للاطفال من 5 حتي 12 سنين واقل من 4 سنين مجاني.,prix,1
+31,journee_crique,schedule,fr,À quelle heure ça commence ?,Rendez-vous à 10h au port d’El Haouaria. Retour vers 19h.,horaire,1
+32,journee_crique,schedule,fr,Heure du rendez-vous ?,Rendez-vous à 10h au port d’El Haouaria. Retour vers 19h.,horaire,1
+33,journee_crique,schedule,fr,À quelle heure on finit ?,Rendez-vous à 10h au port d’El Haouaria. Retour vers 19h.,horaire,1
+34,journee_crique,schedule,fr,وقتاش تبدا؟,Rendez-vous à 10h au port d’El Haouaria. Retour vers 19h.,horaire,1
+35,journee_crique,schedule,fr,Quelle est l’heure de départ ?,Rendez-vous à 10h au port d’El Haouaria. Retour vers 19h.,horaire,1
+36,journee_crique,schedule,fr,Quelle est l’heure du retour ?,Rendez-vous à 10h au port d’El Haouaria. Retour vers 19h.,horaire,1
+37,journee_crique,schedule,ar,وقتاش تبدا؟,التجمع 10 صباحا في ميناء الهوارية والرجوع حتي 19 مساء.,horaire,1
+38,journee_crique,schedule,ar,وقتاش التجمع؟,التجمع 10 صباحا في ميناء الهوارية والرجوع حتي 19 مساء.,horaire,1
+39,journee_crique,schedule,ar,وقتاش نرجعو؟,التجمع 10 صباحا في ميناء الهوارية والرجوع حتي 19 مساء.,horaire,1
+40,journee_crique,schedule,ar,قداش وقت البداية؟,التجمع 10 صباحا في ميناء الهوارية والرجوع حتي 19 مساء.,horaire,1
+41,journee_crique,schedule,ar,قداش وقت النهاية؟,التجمع 10 صباحا في ميناء الهوارية والرجوع حتي 19 مساء.,horaire,1
+42,journee_crique,schedule,ar,وقتاش نخرجو؟,التجمع 10 صباحا في ميناء الهوارية والرجوع حتي 19 مساء.,horaire,1
+43,journee_crique,included,fr,Qu’est-ce qui est inclus ?,"Coin privé face à la mer avec parasol, margoum, table et poufs. Déjeuner et boissons inclus.",inclus,1
+44,journee_crique,included,fr,C’est quoi اللي داخل في السعر ?,"Coin privé face à la mer avec parasol, margoum, table et poufs. Déjeuner et boissons inclus.",inclus,1
+45,journee_crique,included,fr,Le déjeuner est inclus ?,"Coin privé face à la mer avec parasol, margoum, table et poufs. Déjeuner et boissons inclus.",inclus,1
+46,journee_crique,included,fr,On aura un coin privé ?,"Coin privé face à la mer avec parasol, margoum, table et poufs. Déjeuner et boissons inclus.",inclus,1
+47,journee_crique,included,fr,Est-ce qu’il y a parasol et poufs ?,"Coin privé face à la mer avec parasol, margoum, table et poufs. Déjeuner et boissons inclus.",inclus,1
+48,journee_crique,included,fr,Les boissons sont incluses ?,"Coin privé face à la mer avec parasol, margoum, table et poufs. Déjeuner et boissons inclus.",inclus,1
+49,journee_crique,included,ar,شنو شامل؟,بلاصة خاصة قدام البحر فيها باراسول ومرقوم وطاولة وبوفات. الغداء والمشروبات داخلين.,inclus,1
+50,journee_crique,included,ar,شنو داخل في السعر؟,بلاصة خاصة قدام البحر فيها باراسول ومرقوم وطاولة وبوفات. الغداء والمشروبات داخلين.,inclus,1
+51,journee_crique,included,ar,الغداء داخل؟,بلاصة خاصة قدام البحر فيها باراسول ومرقوم وطاولة وبوفات. الغداء والمشروبات داخلين.,inclus,1
+52,journee_crique,included,ar,المشروبات داخلين؟,بلاصة خاصة قدام البحر فيها باراسول ومرقوم وطاولة وبوفات. الغداء والمشروبات داخلين.,inclus,1
+53,journee_crique,included,ar,فما بلاصة خاصة؟,بلاصة خاصة قدام البحر فيها باراسول ومرقوم وطاولة وبوفات. الغداء والمشروبات داخلين.,inclus,1
+54,journee_crique,included,ar,فما باراسول وبوفات؟,بلاصة خاصة قدام البحر فيها باراسول ومرقوم وطاولة وبوفات. الغداء والمشروبات داخلين.,inclus,1
+55,journee_crique,options,fr,Y a-t-il des activités en option ?,"Options disponibles: masques de plongée, kayak et paddle (selon disponibilité).",options,1
+56,journee_crique,options,fr,Kayak disponible ?,"Options disponibles: masques de plongée, kayak et paddle (selon disponibilité).",options,1
+57,journee_crique,options,fr,Paddle disponible ?,"Options disponibles: masques de plongée, kayak et paddle (selon disponibilité).",options,1
+58,journee_crique,options,fr,Masque de plongée disponible ?,"Options disponibles: masques de plongée, kayak et paddle (selon disponibilité).",options,1
+59,journee_crique,options,fr,On peut faire kayak ou paddle ?,"Options disponibles: masques de plongée, kayak et paddle (selon disponibilité).",options,1
+60,journee_crique,options,ar,فما انشطة زيادة؟,فما خيارات: ماسك غطس، كاياك وبادل (حسب التوفر).,options,1
+61,journee_crique,options,ar,كاياك موجود؟,فما خيارات: ماسك غطس، كاياك وبادل (حسب التوفر).,options,1
+62,journee_crique,options,ar,بادل موجود؟,فما خيارات: ماسك غطس، كاياك وبادل (حسب التوفر).,options,1
+63,journee_crique,options,ar,فما ماسك غطس؟,فما خيارات: ماسك غطس، كاياك وبادل (حسب التوفر).,options,1
+64,journee_crique,options,ar,نجم نعمل كاياك ولا بادل؟,فما خيارات: ماسك غطس، كاياك وبادل (حسب التوفر).,options,1
+65,journee_crique,rules,fr,L’alcool est autorisé ?,Les boissons alcoolisées sont interdites.,regles,1
+66,journee_crique,rules,fr,On peut ramener de l’alcool ?,Les boissons alcoolisées sont interdites.,regles,1
+67,journee_crique,rules,fr,Boissons alcoolisées ?,Les boissons alcoolisées sont interdites.,regles,1
+68,journee_crique,rules,ar,الكحول مسموح؟,المشروبات الكحولية ممنوعة.,regles,1
+69,journee_crique,rules,ar,نجم نجيب كحول؟,المشروبات الكحولية ممنوعة.,regles,1
+70,journee_crique,rules,ar,المشروبات الكحولية ممنوعة؟,المشروبات الكحولية ممنوعة.,regles,1
+71,balade_mer,general,fr,C’est quoi cette activité ?,Balade en mer en bateau privé à Haouaria avec pauses baignade.,balade,1
+72,balade_mer,general,fr,Pouvez-vous décrire l’activité ?,Balade en mer en bateau privé à Haouaria avec pauses baignade.,balade,1
+73,balade_mer,general,fr,Donnez-moi des détails sur le programme.,Balade en mer en bateau privé à Haouaria avec pauses baignade.,balade,1
+74,balade_mer,general,fr,Je veux des infos sur cette sortie.,Balade en mer en bateau privé à Haouaria avec pauses baignade.,balade,1
+75,balade_mer,general,fr,C’est quoi exactement ?,Balade en mer en bateau privé à Haouaria avec pauses baignade.,balade,1
+76,balade_mer,general,ar,شنيا النشاط هذا؟,بالادة في البحر بباتو برايفي في الهوارية مع توقفات للسباحة.,balade,1
+77,balade_mer,general,ar,اعطيني تفاصيل علي البرنامج.,بالادة في البحر بباتو برايفي في الهوارية مع توقفات للسباحة.,balade,1
+78,balade_mer,general,ar,نحب معلومات علي الرحلة.,بالادة في البحر بباتو برايفي في الهوارية مع توقفات للسباحة.,balade,1
+79,balade_mer,general,ar,شنوة البرنامج بالضبط؟,بالادة في البحر بباتو برايفي في الهوارية مع توقفات للسباحة.,balade,1
+80,balade_mer,general,ar,فسرلي النشاط.,بالادة في البحر بباتو برايفي في الهوارية مع توقفات للسباحة.,balade,1
+81,balade_mer,pricing,fr,Quel est le prix ?,Le prix est de 350 DT par heure (bateau privé).,prix,1
+82,balade_mer,pricing,fr,Combien ça coûte ?,Le prix est de 350 DT par heure (bateau privé).,prix,1
+83,balade_mer,pricing,fr,C’est combien le tarif ?,Le prix est de 350 DT par heure (bateau privé).,prix,1
+84,balade_mer,pricing,fr,Le prix est par personne ?,Le prix est de 350 DT par heure (bateau privé).,prix,1
+85,balade_mer,pricing,fr,Quel est le tarif adulte ?,Le prix est de 350 DT par heure (bateau privé).,prix,1
+86,balade_mer,pricing,fr,Quel est le tarif enfant ?,Le prix est de 350 DT par heure (bateau privé).,prix,1
+87,balade_mer,pricing,fr,Moins de 4 ans c’est gratuit ?,Le prix est de 350 DT par heure (bateau privé).,prix,1
+88,balade_mer,pricing,fr,Le prix inclut quoi ?,Le prix est de 350 DT par heure (bateau privé).,prix,1
+89,balade_mer,pricing,fr,Y a-t-il une promotion ?,Le prix est de 350 DT par heure (bateau privé).,prix,1
+90,balade_mer,pricing,fr,Donnez-moi le prix exact.,Le prix est de 350 DT par heure (bateau privé).,prix,1
+91,balade_mer,pricing,ar,قداش سومها؟,السوم 350 دينار للساعة (باتو برايفي).,prix,1
+92,balade_mer,pricing,ar,السعر قداش؟,السوم 350 دينار للساعة (باتو برايفي).,prix,1
+93,balade_mer,pricing,ar,بكداش؟,السوم 350 دينار للساعة (باتو برايفي).,prix,1
+94,balade_mer,pricing,ar,السوم للشخص؟,السوم 350 دينار للساعة (باتو برايفي).,prix,1
+95,balade_mer,pricing,ar,قداش للكبار؟,السوم 350 دينار للساعة (باتو برايفي).,prix,1
+96,balade_mer,pricing,ar,قداش للصغار؟,السوم 350 دينار للساعة (باتو برايفي).,prix,1
+97,balade_mer,pricing,ar,اقل من 4 سنين مجاني؟,السوم 350 دينار للساعة (باتو برايفي).,prix,1
+98,balade_mer,pricing,ar,السعر يشمل شنو؟,السوم 350 دينار للساعة (باتو برايفي).,prix,1
+99,balade_mer,pricing,ar,فما تخفيض؟,السوم 350 دينار للساعة (باتو برايفي).,prix,1
+100,balade_mer,pricing,ar,اعطيني السوم الصحيح.,السوم 350 دينار للساعة (باتو برايفي).,prix,1
+101,balade_mer,duration,fr,C’est combien de temps ?,"La durée est selon votre demande (1h, 2h, etc.).",duree,1
+102,balade_mer,duration,fr,Quelle est la durée ?,"La durée est selon votre demande (1h, 2h, etc.).",duree,1
+103,balade_mer,duration,fr,C’est par heure ?,"La durée est selon votre demande (1h, 2h, etc.).",duree,1
+104,balade_mer,duration,fr,On peut réserver 2 heures ?,"La durée est selon votre demande (1h, 2h, etc.).",duree,1
+105,balade_mer,duration,ar,قداش مدة؟,المدة علي حساب طلبك (ساعة، ساعتين...).,duree,1
+106,balade_mer,duration,ar,بالساعة؟,المدة علي حساب طلبك (ساعة، ساعتين...).,duree,1
+107,balade_mer,duration,ar,نجم نحجز ساعتين؟,المدة علي حساب طلبك (ساعة، ساعتين...).,duree,1
+108,balade_mer,duration,ar,نختار قداش سوايع؟,المدة علي حساب طلبك (ساعة، ساعتين...).,duree,1
+109,balade_mer,capacity,fr,Combien de personnes ?,Forfait groupe: jusqu’à 10 personnes.,capacite,1
+110,balade_mer,capacity,fr,C’est pour combien de personnes ?,Forfait groupe: jusqu’à 10 personnes.,capacite,1
+111,balade_mer,capacity,fr,Capacité du bateau ?,Forfait groupe: jusqu’à 10 personnes.,capacite,1
+112,balade_mer,capacity,fr,Jusqu’à combien ?,Forfait groupe: jusqu’à 10 personnes.,capacite,1
+113,balade_mer,capacity,ar,قداش اشخاص؟,الفورفي حتي 10 اشخاص.,capacite,1
+114,balade_mer,capacity,ar,الباتو يشيل قداش؟,الفورفي حتي 10 اشخاص.,capacite,1
+115,balade_mer,capacity,ar,الفورفي حتي قداش؟,الفورفي حتي 10 اشخاص.,capacite,1
+116,balade_mer,capacity,ar,حتي شحال من شخص؟,الفورفي حتي 10 اشخاص.,capacite,1
+117,balade_mer,included,fr,Qu’est-ce qui est inclus ?,Masques disponibles et eau fournie.,inclus,1
+118,balade_mer,included,fr,C’est quoi اللي داخل في السعر ?,Masques disponibles et eau fournie.,inclus,1
+119,balade_mer,included,fr,Le déjeuner est inclus ?,Masques disponibles et eau fournie.,inclus,1
+120,balade_mer,included,fr,On aura un coin privé ?,Masques disponibles et eau fournie.,inclus,1
+121,balade_mer,included,fr,Est-ce qu’il y a parasol et poufs ?,Masques disponibles et eau fournie.,inclus,1
+122,balade_mer,included,fr,Les boissons sont incluses ?,Masques disponibles et eau fournie.,inclus,1
+123,balade_mer,included,ar,شنو شامل؟,فما ماسكات وماء متوفر.,inclus,1
+124,balade_mer,included,ar,شنو داخل في السعر؟,فما ماسكات وماء متوفر.,inclus,1
+125,balade_mer,included,ar,الغداء داخل؟,فما ماسكات وماء متوفر.,inclus,1
+126,balade_mer,included,ar,المشروبات داخلين؟,فما ماسكات وماء متوفر.,inclus,1
+127,balade_mer,included,ar,فما بلاصة خاصة؟,فما ماسكات وماء متوفر.,inclus,1
+128,balade_mer,included,ar,فما باراسول وبوفات؟,فما ماسكات وماء متوفر.,inclus,1
+129,plongee,general,fr,C’est quoi cette activité ?,Plongée sous-marine à El Haouaria pour explorer les grottes avec encadrement.,plongee,1
+130,plongee,general,fr,Pouvez-vous décrire l’activité ?,Plongée sous-marine à El Haouaria pour explorer les grottes avec encadrement.,plongee,1
+131,plongee,general,fr,Donnez-moi des détails sur le programme.,Plongée sous-marine à El Haouaria pour explorer les grottes avec encadrement.,plongee,1
+132,plongee,general,fr,Je veux des infos sur cette sortie.,Plongée sous-marine à El Haouaria pour explorer les grottes avec encadrement.,plongee,1
+133,plongee,general,fr,C’est quoi exactement ?,Plongée sous-marine à El Haouaria pour explorer les grottes avec encadrement.,plongee,1
+134,plongee,general,ar,شنيا النشاط هذا؟,غطس تحت البحر في الهوارية لاكتشاف المغارات مع تاطير.,plongee,1
+135,plongee,general,ar,اعطيني تفاصيل علي البرنامج.,غطس تحت البحر في الهوارية لاكتشاف المغارات مع تاطير.,plongee,1
+136,plongee,general,ar,نحب معلومات علي الرحلة.,غطس تحت البحر في الهوارية لاكتشاف المغارات مع تاطير.,plongee,1
+137,plongee,general,ar,شنوة البرنامج بالضبط؟,غطس تحت البحر في الهوارية لاكتشاف المغارات مع تاطير.,plongee,1
+138,plongee,general,ar,فسرلي النشاط.,غطس تحت البحر في الهوارية لاكتشاف المغارات مع تاطير.,plongee,1
+139,plongee,pricing,fr,Quel est le prix ?,Le tarif est de 100 DT par personne. Âge minimum: plus de 10 ans.,prix,1
+140,plongee,pricing,fr,Combien ça coûte ?,Le tarif est de 100 DT par personne. Âge minimum: plus de 10 ans.,prix,1
+141,plongee,pricing,fr,C’est combien le tarif ?,Le tarif est de 100 DT par personne. Âge minimum: plus de 10 ans.,prix,1
+142,plongee,pricing,fr,Le prix est par personne ?,Le tarif est de 100 DT par personne. Âge minimum: plus de 10 ans.,prix,1
+143,plongee,pricing,fr,Quel est le tarif adulte ?,Le tarif est de 100 DT par personne. Âge minimum: plus de 10 ans.,prix,1
+144,plongee,pricing,fr,Quel est le tarif enfant ?,Le tarif est de 100 DT par personne. Âge minimum: plus de 10 ans.,prix,1
+145,plongee,pricing,fr,Moins de 4 ans c’est gratuit ?,Le tarif est de 100 DT par personne. Âge minimum: plus de 10 ans.,prix,1
+146,plongee,pricing,fr,Le prix inclut quoi ?,Le tarif est de 100 DT par personne. Âge minimum: plus de 10 ans.,prix,1
+147,plongee,pricing,fr,Y a-t-il une promotion ?,Le tarif est de 100 DT par personne. Âge minimum: plus de 10 ans.,prix,1
+148,plongee,pricing,fr,Donnez-moi le prix exact.,Le tarif est de 100 DT par personne. Âge minimum: plus de 10 ans.,prix,1
+149,plongee,pricing,ar,قداش سومها؟,السوم 100 دينار للشخص ولازم العمر اكثر من 10 سنين.,prix,1
+150,plongee,pricing,ar,السعر قداش؟,السوم 100 دينار للشخص ولازم العمر اكثر من 10 سنين.,prix,1
+151,plongee,pricing,ar,بكداش؟,السوم 100 دينار للشخص ولازم العمر اكثر من 10 سنين.,prix,1
+152,plongee,pricing,ar,السوم للشخص؟,السوم 100 دينار للشخص ولازم العمر اكثر من 10 سنين.,prix,1
+153,plongee,pricing,ar,قداش للكبار؟,السوم 100 دينار للشخص ولازم العمر اكثر من 10 سنين.,prix,1
+154,plongee,pricing,ar,قداش للصغار؟,السوم 100 دينار للشخص ولازم العمر اكثر من 10 سنين.,prix,1
+155,plongee,pricing,ar,اقل من 4 سنين مجاني؟,السوم 100 دينار للشخص ولازم العمر اكثر من 10 سنين.,prix,1
+156,plongee,pricing,ar,السعر يشمل شنو؟,السوم 100 دينار للشخص ولازم العمر اكثر من 10 سنين.,prix,1
+157,plongee,pricing,ar,فما تخفيض؟,السوم 100 دينار للشخص ولازم العمر اكثر من 10 سنين.,prix,1
+158,plongee,pricing,ar,اعطيني السوم الصحيح.,السوم 100 دينار للشخص ولازم العمر اكثر من 10 سنين.,prix,1
+159,plongee,included,fr,Qu’est-ce qui est inclus ?,"Équipement inclus: combinaison, masque, palmes et bouteille.",equipement,1
+160,plongee,included,fr,C’est quoi اللي داخل في السعر ?,"Équipement inclus: combinaison, masque, palmes et bouteille.",equipement,1
+161,plongee,included,fr,Le déjeuner est inclus ?,"Équipement inclus: combinaison, masque, palmes et bouteille.",equipement,1
+162,plongee,included,fr,On aura un coin privé ?,"Équipement inclus: combinaison, masque, palmes et bouteille.",equipement,1
+163,plongee,included,fr,Est-ce qu’il y a parasol et poufs ?,"Équipement inclus: combinaison, masque, palmes et bouteille.",equipement,1
+164,plongee,included,fr,Les boissons sont incluses ?,"Équipement inclus: combinaison, masque, palmes et bouteille.",equipement,1
+165,plongee,included,ar,شنو شامل؟,التجهيزات داخلين: كومبينازون، ماسك، زعانف وبوطيل.,equipement,1
+166,plongee,included,ar,شنو داخل في السعر؟,التجهيزات داخلين: كومبينازون، ماسك، زعانف وبوطيل.,equipement,1
+167,plongee,included,ar,الغداء داخل؟,التجهيزات داخلين: كومبينازون، ماسك، زعانف وبوطيل.,equipement,1
+168,plongee,included,ar,المشروبات داخلين؟,التجهيزات داخلين: كومبينازون، ماسك، زعانف وبوطيل.,equipement,1
+169,plongee,included,ar,فما بلاصة خاصة؟,التجهيزات داخلين: كومبينازون، ماسك، زعانف وبوطيل.,equipement,1
+170,plongee,included,ar,فما باراسول وبوفات؟,التجهيزات داخلين: كومبينازون، ماسك، زعانف وبوطيل.,equipement,1
